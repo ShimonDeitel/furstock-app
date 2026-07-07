@@ -1,0 +1,42 @@
+{
+  "identifier": "furstock",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Furstock Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "furstock_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Low-stock alerts and reorder reminders per item",
+              "displayName": "Furstock Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "furstock_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Furstock Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
